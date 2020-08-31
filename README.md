@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## About me
+Hello, my name is Stefano Leali and I'm a CSE student from Italy interested in: backend development, networking and cyber security.
+I love learning new things and contributing to open source software.<br> I also like playing CTF but I am a newbie :sweat_smile:.
 
-<!--
-**sleali/sleali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social links
+- [Instagram](https://instagram.com/_stefanoleali/)
+- [Twitter](https://twitter.com/_stefanoleali)
+- [Quora](https://it.quora.com/profile/Stefano-Leali)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- [E-mail](mailto:stefanoleali99@gmail.com)
+- [Telegram](https://t.me/sleali)
